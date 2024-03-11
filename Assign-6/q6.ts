@@ -1,3 +1,3 @@
-const spaceName = "\t  \n Syed Munir Ullah  \n \t";
+const spaceName = "\t \n Syed Munir Ullah \t \n";
 console.log(spaceName);
 console.log(spaceName.trim());
